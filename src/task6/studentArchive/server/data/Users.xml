@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<users>
+<user userName="Vasia" passwordHash="49" isAdmin="true"/>
+<user userName="Stas" passwordHash="49" isAdmin="true"/>
+<user userName="1" passwordHash="80221876" isAdmin="false"/>
+<user userName="2" passwordHash="50" isAdmin="true"/>
+<user userName="3" passwordHash="51" isAdmin="false"/>
+</users>

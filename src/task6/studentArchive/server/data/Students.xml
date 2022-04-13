@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<students>
+<student name="Nicolai" averageMark="10"/>
+<student name="katia" averageMark="23456"/>
+<student name="Fedor" averageMark="9"/>
+</students>
